@@ -46,6 +46,8 @@ The goal of this repository is simple: **find the right resource for the task, w
 | [getdesign.md](https://getdesign.md/) | Discover design guidance and UI inspiration when planning a clean, modern dashboard or web-based analytics interface. |
 | [Dribbble](https://dribbble.com/) | Search for dashboard UI, analytics dashboard, admin panel, KPI cards, charts, and data visualization concepts. Treat examples as inspiration, not automatically as production-ready designs. |
 | [Power BI Design Files](https://github.com/Dashboard-Design/Power-BI-Design-Files/tree/main) | See how report pages, layouts, and visual elements are arranged in Power BI-specific examples. |
+| [Remix Icon](https://remixicon.com/) | Browse icons for dashboard navigation, KPI cards, buttons, and other UI elements. |
+| [React Graph Gallery](https://www.react-graph-gallery.com/) | Explore chart examples and visualization techniques built with React. Useful for designing interactive analytics interfaces. |
 
 **Suggested search terms:** `analytics dashboard`, `Power BI dashboard`, `KPI dashboard`, `sales dashboard`, `inventory dashboard`, `executive dashboard`.
 
@@ -95,6 +97,8 @@ These are extra resources worth keeping alongside the original list.
 | [Data.gov](https://data.gov/) | Find public datasets for analysis practice and portfolio projects. |
 | [Kaggle Datasets](https://www.kaggle.com/datasets) | Discover datasets for SQL, Excel, Python, and BI portfolio projects. |
 | [Tableau Public](https://public.tableau.com/) | Explore and publish public Tableau visualizations for design and storytelling inspiration. |
+| [HiData AI](https://hidata.ai/) | Explore AI-powered data analytics tools to investigate data and generate insights. Check current features and supported data sources. |
+| [Julius AI](https://julius.ai/) | Use an AI data-analysis assistant to explore datasets, answer analytical questions, and create charts or summaries. Validate results before using them in reports. |
 
 ## 🗂️ How to Use This Repository
 
